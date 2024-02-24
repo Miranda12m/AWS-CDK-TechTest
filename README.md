@@ -72,8 +72,12 @@ Update Bucket Policy
 }
 ```
 
+
 Now our live enviorment is going to be working :D 
+
 [Live Prod Server](https://dw360ae9q5dfb.cloudfront.net/)
+
+
 ![Bucket Policy Image Placeholder](cloudfront/Img/liveprod.png)
 
 ## 4. Setting Up AWS CodePipeline
@@ -104,13 +108,16 @@ Deployment to Production
 Now Im going to commit some changes to my main branch to check if is running n the prod enviorment
 
 [Dumb Commit test](https://github.com/Miranda12m/techtest-palace/commit/6d90d413e9dc2d9b68153831ec2e00e325506287)
-![Deployment Image Placeholder](cloudfront/Img/liveprod2.png)
+
+
+![Deployment Image Placeholder](cloudfront/Img/commit.png)
 
 [Live Prod Server](https://dw360ae9q5dfb.cloudfront.net/)
+
+![Deployment Image Placeholder](cloudfront/Img/liveprod2.png)
 
 Yes, is working on live prod
 
 ## 5. Conclusiom 
 IS WORKING
 
-![Conclusion Image Placeholder](image7.jpg)
